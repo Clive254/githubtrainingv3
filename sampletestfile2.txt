@@ -1,0 +1,7 @@
+This is a comparison lecture change in file >> sampletestfile2.txt
+
+git status
+clear
+echo This is a comparison lecture >> sampletestfile1.txt
+$ git status
+echo This is a comparison lecture change in file

@@ -1,3 +1,2 @@
-
-Testing Git reset commit 2
+This is a comparison lecture
 This is a comparison lecture
